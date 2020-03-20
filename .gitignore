@@ -1,0 +1,12 @@
+# Files
+*.txt
+parameters.py
+parse_file.py
+
+# Folder
+source/
+
+# Environments
+.venv
+.vscode
+__pycache__
