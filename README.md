@@ -2,9 +2,9 @@
 
 
 `# API steam : https://steamcommunity.com/dev/apikey
-keyAPI = "<key API>"
+keyAPI = "<key API>"`
 
-#### List of players
+`# List of players
 steamID = [
     {
         "name": "Friend 1",
