@@ -1,7 +1,7 @@
 # Parameters.py :
 
-`
-# API steam : https://steamcommunity.com/dev/apikey
+
+`# API steam : https://steamcommunity.com/dev/apikey
 keyAPI = "<key API>"
 
 #### List of players
